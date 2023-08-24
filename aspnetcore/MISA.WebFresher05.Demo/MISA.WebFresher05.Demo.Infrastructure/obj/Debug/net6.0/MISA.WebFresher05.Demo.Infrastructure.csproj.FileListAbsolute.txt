@@ -1,0 +1,15 @@
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.deps.json
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.dll
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.pdb
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher05.Demo.Domain.dll
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher05.Demo.Domain.pdb
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.csproj.AssemblyReference.cache
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.AssemblyInfoInputs.cache
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.AssemblyInfo.cs
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.csproj.CopyComplete
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.dll
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\refint\MISA.WebFresher05.Demo.Infrastructure.dll
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher05.Demo.Infrastructure.pdb
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Infrastructure\obj\Debug\net6.0\ref\MISA.WebFresher05.Demo.Infrastructure.dll

@@ -1,0 +1,12 @@
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\bin\Debug\net6.0\MISA.WebFresher05.Demo.Domain.deps.json
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\bin\Debug\net6.0\MISA.WebFresher05.Demo.Domain.dll
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\bin\Debug\net6.0\MISA.WebFresher05.Demo.Domain.pdb
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher05.Demo.Domain.csproj.AssemblyReference.cache
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher05.Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher05.Demo.Domain.AssemblyInfoInputs.cache
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher05.Demo.Domain.AssemblyInfo.cs
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher05.Demo.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher05.Demo.Domain.dll
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\obj\Debug\net6.0\refint\MISA.WebFresher05.Demo.Domain.dll
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher05.Demo.Domain.pdb
+D:\Learning\MISA_FRESHER_WEB\freshermisa\web202305\mf1661-ddtung\aspnetcore\MISA.WebFresher05.Demo\MISA.WebFresher05.Demo.Domain\obj\Debug\net6.0\ref\MISA.WebFresher05.Demo.Domain.dll

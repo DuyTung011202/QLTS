@@ -1,0 +1,45 @@
+@import url(./variable.css);
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    margin: var(--header-height) 0 0 0!important;
+    padding: 0 0 0 var(--nav-width) ;
+    font-size: var(--normal-font-size)!important;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none!important;
+}
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../assets/font/Roboto-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.icon {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.no-spinners::-webkit-outer-spin-button,
+.no-spinners::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}

@@ -1,0 +1,10 @@
+:root {
+    --header-height: 3rem;
+    --nav-width: 68px;
+    --first-color: #1c3048;
+    --first-color-light: #979797;
+    --white-color: #F7F6FB;
+    --normal-font-size: 13px;
+    --z-fixed: 100;
+    --border-color:#afafaf;
+}

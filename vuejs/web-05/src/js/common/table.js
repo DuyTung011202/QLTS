@@ -1,0 +1,17 @@
+export const Table = {
+  numeric: "STT",
+  fixed_asset_code: "Mã tài sản",
+  fixed_asset_name: "Tên tài sản",
+  fixed_asset_category_name: "Loại tài sản",
+  department_name: "Tên bộ phận sử dụng",
+  quantity: "Số lượng",
+  cost: "Nguyên giá",
+  depreciation: "KH/HM lũy kế",
+  residualValue: "Giá trị còn lại",
+  function: "Chức năng",
+  btnAddFixedAsset: "Thêm tài sản",
+  btnExcelTooltip: "Xuất ra excel",
+  btnDeleteTooltip: "Xóa",
+  active: "Trạng thái",
+  searchFixedAsset: "Tìm kiếm tài sản",
+};
